@@ -1,6 +1,6 @@
-# qrcodeapp
+# QrCode App
 
-A new Flutter project.
+Exemplo implementado em Flutter de leitura e geração de QrCode.
 
 ## Getting Started
 
