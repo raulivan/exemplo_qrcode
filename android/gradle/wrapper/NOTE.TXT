@@ -1,0 +1,3 @@
+# POR CAUSA DO LEITOR DE QR CODE
+#distributionUrl=https\://services.gradle.org/distributions/gradle-6.7-all.zip #PADRÃO
+distributionUrl=https\://services.gradle.org/distributions/gradle-6.9-all.zip
